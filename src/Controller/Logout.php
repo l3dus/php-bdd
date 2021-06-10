@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Armazenamento\Controller;
+namespace Ledus\Armazenamento\Controller;
 
 use Nyholm\Psr7\Response;
 use Psr\Http\Message\ResponseInterface;

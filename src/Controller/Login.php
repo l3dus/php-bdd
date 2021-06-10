@@ -1,9 +1,9 @@
 <?php
 
-namespace Alura\Armazenamento\Controller;
+namespace Ledus\Armazenamento\Controller;
 
-use Alura\Armazenamento\Entity\Usuario;
-use Alura\Armazenamento\Helper\MensagemFlash;
+use Ledus\Armazenamento\Entity\Usuario;
+use Ledus\Armazenamento\Helper\MensagemFlash;
 use Doctrine\ORM\EntityManagerInterface;
 use Nyholm\Psr7\Response;
 use Psr\Http\Message\ResponseInterface;

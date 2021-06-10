@@ -1,6 +1,6 @@
 <?php
 
-use Alura\Armazenamento\Entity\Formacao;
+use Ledus\Armazenamento\Entity\Formacao;
 use Behat\Behat\Context\Context;
 
 class FormacaoEmMemoria implements Context

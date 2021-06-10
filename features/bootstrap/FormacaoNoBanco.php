@@ -1,7 +1,7 @@
 <?php
 
-use Alura\Armazenamento\Entity\Formacao;
-use Alura\Armazenamento\Infra\EntitymanagerCreator;
+use Ledus\Armazenamento\Entity\Formacao;
+use Ledus\Armazenamento\Infra\EntitymanagerCreator;
 use Behat\Behat\Tester\Exception\PendingException;
 use Behat\Behat\Context\Context;
 use Doctrine\ORM\EntityManagerInterface;

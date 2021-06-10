@@ -1,8 +1,8 @@
 <?php
 
-namespace Alura\Armazenamento\Controller;
+namespace Ledus\Armazenamento\Controller;
 
-use Alura\Armazenamento\Helper\HtmlViewTrait;
+use Ledus\Armazenamento\Helper\HtmlViewTrait;
 use Nyholm\Psr7\Response;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;

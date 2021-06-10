@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Armazenamento\Infra;
+namespace Ledus\Armazenamento\Infra;
 
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\EntityManagerInterface;

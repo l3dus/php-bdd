@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Alura\Armazenamento\Helper;
+namespace Ledus\Armazenamento\Helper;
 
 trait HtmlViewTrait
 {
